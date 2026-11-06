@@ -1,0 +1,202 @@
+[
+  {
+    "question": "How can I place an order?",
+    "answer": "To place an order, select the product you want, add it to your cart, proceed to checkout, provide your delivery details, choose a payment method, and confirm the order."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "An order can generally be cancelled before it is shipped. Check your order details for the available cancellation option."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the tracking information provided in your order details or shipping confirmation."
+  },
+  {
+    "question": "Can I modify my order after placing it?",
+    "answer": "Order modifications may be possible before the order is processed or shipped. Check your order details or contact customer support for assistance."
+  },
+  {
+    "question": "Why has my order not been confirmed?",
+    "answer": "An order may take some time to be confirmed because of payment verification or order processing. If the status does not change, contact customer support."
+  },
+  {
+    "question": "Can I reorder a product I purchased before?",
+    "answer": "Yes, you can usually reorder a previously purchased product from your order history."
+  },
+  {
+    "question": "What should I do if I received the wrong product?",
+    "answer": "If you received an incorrect product, report the issue through the return or support section and provide the required order details."
+  },
+  {
+    "question": "What should I do if an item is missing from my order?",
+    "answer": "Check your order details to confirm whether the items were shipped separately. If an item is missing, contact customer support with your order information."
+  },
+  {
+    "question": "What payment methods are available?",
+    "answer": "Common payment options may include credit cards, debit cards, online payment methods, and cash on delivery, depending on availability."
+  },
+  {
+    "question": "Why did my payment fail?",
+    "answer": "A payment may fail because of insufficient funds, incorrect payment details, bank restrictions, or a temporary technical issue. Try again or use another payment method."
+  },
+  {
+    "question": "Was my payment successful?",
+    "answer": "You can check your order status and payment confirmation in your account. A successful payment is normally followed by an order confirmation."
+  },
+  {
+    "question": "Can I pay using a credit card?",
+    "answer": "Credit card payments may be supported. Select the credit card option during checkout and enter the required payment details."
+  },
+  {
+    "question": "Can I pay using a debit card?",
+    "answer": "Debit card payments may be supported. Select the debit card option during checkout and enter the required payment details."
+  },
+  {
+    "question": "Is cash on delivery available?",
+    "answer": "Cash on delivery may be available for selected products and locations. The available payment options will be displayed during checkout."
+  },
+  {
+    "question": "Why was I charged twice for the same order?",
+    "answer": "If you notice a duplicate charge, check your payment history and order details. If the duplicate charge remains, contact customer support with the transaction information."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Delivery time depends on the product, delivery location, and shipping method. The estimated delivery date is usually shown during checkout or in the order details."
+  },
+  {
+    "question": "Do you provide express delivery?",
+    "answer": "Express delivery may be available for selected products and locations. Check the shipping options during checkout."
+  },
+  {
+    "question": "How can I check my delivery status?",
+    "answer": "You can check your delivery status from your order details using the tracking information provided for your shipment."
+  },
+  {
+    "question": "Can I change my delivery address?",
+    "answer": "The delivery address may be changed before the order is shipped. Check your order settings or contact customer support as soon as possible."
+  },
+  {
+    "question": "What happens if I am not available when my order arrives?",
+    "answer": "If you are unavailable, the delivery service may attempt delivery again or provide instructions for rescheduling or receiving the package."
+  },
+  {
+    "question": "Why is my delivery delayed?",
+    "answer": "Delivery may be delayed because of weather, transportation issues, high order volume, or other logistical problems. Check your tracking information for updates."
+  },
+  {
+    "question": "Do you deliver to my location?",
+    "answer": "Delivery availability depends on the location and product. Enter your delivery address during checkout to check whether delivery is available."
+  },
+  {
+    "question": "Can I choose a delivery date?",
+    "answer": "Scheduled delivery may be available for selected products and locations. Available delivery dates will be shown during checkout when applicable."
+  },
+  {
+    "question": "How can I return a product?",
+    "answer": "To return a product, open your order details, select the return option if eligible, choose a return reason, and follow the provided instructions."
+  },
+  {
+    "question": "What is the return period?",
+    "answer": "The return period depends on the product and applicable return policy. Check the product or order details for the specific return period."
+  },
+  {
+    "question": "Which products are eligible for return?",
+    "answer": "Return eligibility depends on the product category, condition, and applicable return policy. Check the product's return information before requesting a return."
+  },
+  {
+    "question": "How long does a refund take?",
+    "answer": "Refund processing time depends on the payment method and financial institution. The refund status can usually be checked through the order details."
+  },
+  {
+    "question": "How will I receive my refund?",
+    "answer": "Refunds are generally processed back to the original payment method. The exact process may depend on how the order was paid for."
+  },
+  {
+    "question": "Can I exchange a product instead of returning it?",
+    "answer": "An exchange may be available for eligible products. Check the return or exchange options associated with your order."
+  },
+  {
+    "question": "What should I do if my product arrived damaged?",
+    "answer": "If your product arrives damaged, report the issue as soon as possible through the return or support section and provide photographs or other requested information."
+  },
+  {
+    "question": "Why haven't I received my refund yet?",
+    "answer": "Refunds can take some time to process after a return is approved. Check the refund status and contact customer support if the expected processing period has passed."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "To create an account, select the sign-up or register option and provide the required information such as your name, email address, and password."
+  },
+  {
+    "question": "How do I log in to my account?",
+    "answer": "Select the login option and enter your registered email address or phone number and password."
+  },
+  {
+    "question": "I forgot my password. What should I do?",
+    "answer": "Select the Forgot Password option on the login page and follow the instructions to reset your password."
+  },
+  {
+    "question": "How can I change my password?",
+    "answer": "You can change your password from the account or security settings after logging into your account."
+  },
+  {
+    "question": "How can I update my email address?",
+    "answer": "You can update your email address through your account settings if the option is available. You may be asked to verify the new email address."
+  },
+  {
+    "question": "How can I change my phone number?",
+    "answer": "Your phone number can generally be updated through your account settings. Verification may be required for the new number."
+  },
+  {
+    "question": "How can I delete my account?",
+    "answer": "You can request account deletion through the account settings or by contacting customer support. Make sure to review any pending orders before deleting the account."
+  },
+  {
+    "question": "How can I search for a product?",
+    "answer": "Use the search bar to enter the name, brand, or type of product you are looking for. You can also use available filters to narrow the results."
+  },
+  {
+    "question": "How can I check whether a product is available?",
+    "answer": "Open the product page to check its current availability. Products that are unavailable may be marked as out of stock."
+  },
+  {
+    "question": "How can I find product specifications?",
+    "answer": "Product specifications are usually listed on the product page under the product details or specifications section."
+  },
+  {
+    "question": "How can I check product reviews?",
+    "answer": "Product reviews can usually be found on the product page. You can read ratings and customer feedback before making a purchase."
+  },
+  {
+    "question": "What should I do if a product is out of stock?",
+    "answer": "If a product is out of stock, you can check whether a restock notification or similar alternative product is available."
+  },
+  {
+    "question": "How can I compare products?",
+    "answer": "You can compare products by checking their specifications, prices, features, ratings, and customer reviews before making a purchase."
+  },
+  {
+    "question": "Do products come with a warranty?",
+    "answer": "Some products may include a manufacturer's or seller's warranty. Check the product details or warranty information for specific coverage."
+  },
+  {
+    "question": "How can I claim a warranty?",
+    "answer": "To claim a warranty, keep your order information and proof of purchase ready and contact the appropriate seller or manufacturer support service."
+  },
+  {
+    "question": "What should I do if my product stops working?",
+    "answer": "Check the product troubleshooting instructions first. If the issue continues, contact customer support or the manufacturer if the product is covered by warranty."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can contact customer support through the available help, contact, or support section of the platform."
+  },
+  {
+    "question": "What information should I provide when contacting support?",
+    "answer": "Provide relevant information such as your order number, registered contact details, product name, and a clear description of the issue."
+  },
+  {
+    "question": "Can I get technical assistance for my product?",
+    "answer": "Technical assistance may be available through customer support or the product manufacturer. Keep your product and order details ready when requesting help."
+  }
+]
